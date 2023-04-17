@@ -1,0 +1,7 @@
+---
+applications:
+- name: nodejs_app_demo_app_8405046805
+  memory: 192M
+  instances: 1
+  random-route: false
+  host:nodejs_app_bs_8405046805
