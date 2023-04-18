@@ -16,3 +16,4 @@ Detailed steps description for the session: [Mini CodeJam](/exercises/basic-code
 ===
 
 Just pushing a commit. 
+Just pushing a commit1.
