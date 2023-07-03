@@ -15,5 +15,5 @@ In this session, you will learn more about Cloud Foundry. In particular, you wil
 Detailed steps description for the session: [Mini CodeJam](/exercises/basic-codeJam)
 ===
 
-Just pushing a commit. 
-Just pushing a commit1.
+Test #1: Just pushing a commit. 
+Test #2: Just pushing a commit.
